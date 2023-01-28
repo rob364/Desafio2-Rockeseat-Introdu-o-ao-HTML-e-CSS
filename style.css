@@ -1,0 +1,75 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+  
+    text-align: center;
+    margin: 0;
+}
+
+#hero {
+    width: 592px;
+    margin: 0px auto 72px;
+}
+
+#hero img {
+    margin-bottom: 22px;
+
+}
+
+h1 {
+    font-family: 'Inter', sans-serif;
+    font-size: 39px;
+    line-height: 36px;
+    font-weight: normal;
+  
+    margin-bottom: 22px;
+    
+}
+
+h1 span {
+    font-weight: bold;
+}
+
+span, a {
+   color: #ff00d4; 
+}
+p{
+    color: #7d7987;
+
+    font-size: 14px;
+    line-height: 28px;
+}
+
+
+
+.line {
+    width: 568px;
+    height: 0px;
+    margin: 0 auto 8px;
+
+    border: 1px solid #ECEFF2;
+}
+
+/* #footer { */
+    #footer a  {
+        margin-left: 28px;
+    
+        z-index: 1;
+    }  
+
+
+
+#wave {
+    
+    bottom: 100%;
+    transform: translateX(-0%);
+    width: 100%;
+    margin: auto;
+    z-index: 0;
+}
+
+
+
+
+
+
+ 
